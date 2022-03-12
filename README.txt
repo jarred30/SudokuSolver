@@ -9,3 +9,5 @@ actively solve puzzles.
 How to Run:
 With all the necessary files, run the following from the SudokuSolver directory:  python main.py
 From there, follow the prompts on the GUI!
+
+NOTE: In order for the program to run Tkinter and Numpy libraries must be installed!
